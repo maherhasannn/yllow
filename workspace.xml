@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ccd195c-4c75-4f66-bc92-b5bbd6772f86" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/camera_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/catt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/comming.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/map_gray_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/map_screen_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/no_concert.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/uxrrr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/vect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/auth/login/view/login_password_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/auth/sign_up/view/signup_password_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/concert_dashboard/concert_page/concert_third_party_ticket_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/concert_dashboard/concert_page/dashboard_third_party_ticket.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/concert_dashboard/concert_page/third_party_link_web.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/home_1/view/enable_map_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/utils/re_usable_dialog.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/kotlin/com/example/new_yellow/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/profile/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/p_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/p_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/auth/login/controller/login_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/auth/login/controller/login_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/auth/login/view/login_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/auth/login/view/login_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/auth/sign_up/controller/signup_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/auth/sign_up/controller/signup_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/auth/sign_up/view/birth_day_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/auth/sign_up/view/birth_day_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/auth/sign_up/view/name_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/auth/sign_up/view/name_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/auth/sign_up/view/signup_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/auth/sign_up/view/signup_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/auth/splash_screen/splash_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/auth/splash_screen/splash_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/auth/welcome_screen/app_explanation_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/auth/welcome_screen/app_explanation_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/auth/welcome_screen/welcome_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/auth/welcome_screen/welcome_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/controller/get_storage_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/controller/get_storage_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/global_widget/custom_buttom_nav_bar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/global_widget/custom_buttom_nav_bar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/global_widget/loader.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/global_widget/loader.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/admin/controller/admin_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/admin/controller/admin_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/admin/view/admin_panel_detail.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/admin/view/admin_panel_detail.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/admin/view/admin_panel_request.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/admin/view/admin_panel_request.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/comming_soon/coming_soon_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/comming_soon/coming_soon_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/concert_dashboard/concert_page/buy_ticket_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/concert_dashboard/concert_page/buy_ticket_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/concert_dashboard/concert_page/concert_p_1.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/concert_dashboard/concert_page/concert_p_1.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/concert_dashboard/concert_page/concert_p_2.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/concert_dashboard/concert_page/concert_p_2.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/concert_dashboard/create_event/controller/event_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/concert_dashboard/create_event/controller/event_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/concert_dashboard/create_event/model/event_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/concert_dashboard/create_event/model/event_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/concert_dashboard/create_event/view/application_submitted.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/concert_dashboard/create_event/view/application_submitted.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/concert_dashboard/create_event/view/create_event_3.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/concert_dashboard/create_event/view/create_event_3.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/concert_dashboard/create_event/view/create_event_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/concert_dashboard/create_event/view/create_event_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/concert_dashboard/create_event/view/create_event_screen_2.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/concert_dashboard/create_event/view/create_event_screen_2.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/concert_dashboard/create_event/view/create_event_screen_4.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/concert_dashboard/create_event/view/create_event_screen_4.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/concert_dashboard/view/c_d_screen_2.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/concert_dashboard/view/c_d_screen_2.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/concert_dashboard/view/concert_dashboard_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/concert_dashboard/view/concert_dashboard_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/concert_dashboard/view/concert_payment_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/concert_dashboard/view/concert_payment_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/concert_dashboard/view/consert_tips_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/concert_dashboard/view/consert_tips_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/home_1/view/home_1_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/home_1/view/home_1_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/home_1/widget/custom_home_header.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/home_1/widget/custom_home_header.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/home_1/widget/home_list_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/home_1/widget/home_list_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/main_ticket_pages/concert_information_explanation/concert_inf_exp_buy_ticket.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/main_ticket_pages/concert_information_explanation/concert_inf_exp_buy_ticket.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/main_ticket_pages/concert_information_explanation/concert_info_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/main_ticket_pages/concert_information_explanation/concert_info_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/main_ticket_pages/my_ticket/view/my_free_ticket.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/main_ticket_pages/my_ticket/view/my_free_ticket.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/main_ticket_pages/my_ticket/view/my_ticket_expanded_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/main_ticket_pages/my_ticket/view/my_ticket_expanded_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/main_ticket_pages/my_ticket/view/my_ticket_home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/main_ticket_pages/my_ticket/view/my_ticket_home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/main_ticket_pages/my_ticket/widget/my_ticket_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/main_ticket_pages/my_ticket/widget/my_ticket_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/profile/view/profile_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/profile/view/profile_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/stripe_payment_screen/stripe_payment_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/stripe_payment_screen/stripe_payment_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/utils/common.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils/common.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/utils/custom_dialog.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils/custom_dialog.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GitbLDWLmIiLUHandX3wE3dIUy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Ihtesham_Apps/new_yellow&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Ihtesham_Apps\new_yellow\images" />
+      <recent name="D:\Ihtesham_Apps\new_yellow\android\app" />
+      <recent name="D:\Ihtesham_Apps\new_yellow\video" />
+      <recent name="D:\Ihtesham_Apps\new_yellow" />
+      <recent name="D:\Ihtesham_Apps\new_yellow\android" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Ihtesham_Apps\new_yellow\lib\screens\main_ticket_pages" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ccd195c-4c75-4f66-bc92-b5bbd6772f86" name="Default Changelist" comment="" />
+      <created>1666883353585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666883353585</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

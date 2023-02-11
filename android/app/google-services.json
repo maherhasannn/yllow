@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "269905171848",
+    "project_id": "yellowapp2022",
+    "storage_bucket": "yellowapp2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269905171848:android:a9f46ddd2c59e2994f563d",
+        "android_client_info": {
+          "package_name": "com.example.new_yellow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269905171848-2bborvaqjda93s7u6uq78q68779h6nus.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.new_yellow",
+            "certificate_hash": "8fa4be54d5ebf021dc906ba86caadbab58bb4d40"
+          }
+        },
+        {
+          "client_id": "269905171848-fa9182thu4dia7cojqa827is1a5f0deh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTNPFP6uWFd0qdA0_6Nbip_Kkm7O4W6gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269905171848-fa9182thu4dia7cojqa827is1a5f0deh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
